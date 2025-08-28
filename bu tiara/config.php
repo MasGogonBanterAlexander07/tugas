@@ -1,6 +1,3 @@
-<?php include("config.php");
- ?>
-
 <?php
 $server = "localhost";
 $user = "root";
